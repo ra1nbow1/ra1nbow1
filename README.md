@@ -30,9 +30,9 @@ Hi, I'm Ra1nbow1, a professional **self-taughted** FrontEnd web developer from M
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most **public** code on github*
-
-<a href="https://ra1nbow.xyz">
   
+<a href="https://ra1nbow.xyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&theme=gruvbox"/>
 </a>
 <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ra1nbow1&show_icons=true&theme=gruvbox&line_height=27&v=5" alt="Anurag's github stats" />
