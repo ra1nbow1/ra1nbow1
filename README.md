@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Ra1nbow1, a professional **self-taughted** FrontEnd web developer from Moscow.
+Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from Moscow.
 
 - 🔭 I’m currently chillin'
 - 🌱 I’m currently learning Rest API & Service worker
