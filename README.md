@@ -13,8 +13,6 @@
   <img align="left" alt="Ra1nbow1 | Discord" width="30px" src="https://user-images.githubusercontent.com/38384967/88418541-60e7c780-cdec-11ea-89bb-4c7622f28b9d.png" />
 </a>
 
-<iframe src="https://discord.com/widget?id=469596213491138570&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 <br />
 <br />
 
