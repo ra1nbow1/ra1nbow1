@@ -40,3 +40,5 @@ Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from 
 <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ra1nbow1&show_icons=true&theme=gruvbox&line_height=27&v=5" alt="Anurag's github stats" />
 </a>
+
+<!--  https://naereen.github.io/badges/ All available badges-->
