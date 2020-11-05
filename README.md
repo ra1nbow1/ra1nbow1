@@ -16,7 +16,7 @@
 <br />
 <br />
 
- ![brackets_black](https://user-images.githubusercontent.com/38384967/98265610-5536a000-1f9a-11eb-8bc9-b0b3bea7811a.png)  Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from Moscow.
+ <img width="30" src="https://user-images.githubusercontent.com/38384967/98265610-5536a000-1f9a-11eb-8bc9-b0b3bea7811a.png">  Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from Moscow.
 
 - 🔭 I’m currently chillin'
 - 🌱 I’m currently learning Rest API & Service worker
