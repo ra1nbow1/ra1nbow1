@@ -1,5 +1,7 @@
 ### Hi there, I`m Ra1nbow1 👋
 
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+
 <a href="https://dev.to/ra1nbow1">
   <img align="left" alt="Ra1nbow1 | dev.to" width="30px" src="https://user-images.githubusercontent.com/38384967/88418689-a4423600-cdec-11ea-9fcf-454db1d997e5.png" />
 </a>
