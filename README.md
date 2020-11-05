@@ -1,6 +1,6 @@
 ### Hi there, I`m Ra1nbow1 👋
 
-![Profile views](https://github.com/ra1nbow1)
+![Profile views](https://gpvc.arturio.dev/Naereen)
 
 <a href="https://dev.to/ra1nbow1">
   <img align="left" alt="Ra1nbow1 | dev.to" width="30px" src="https://user-images.githubusercontent.com/38384967/88418689-a4423600-cdec-11ea-9fcf-454db1d997e5.png" />
