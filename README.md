@@ -43,4 +43,6 @@ Hi, I'm Ra1nbow1, a  **self-taughted** FrontEnd web developer from Moscow.
 
 <!--  https://naereen.github.io/badges/ All available badges-->
 
-[![Open Source Helpers](https://www.codetriage.com/bajajvinamr/hacktoberfest2020/badges/users.svg)](https://www.codetriage.com/bajajvinamr/hacktoberfest2020)
+<a href="">
+  <img height="20" src="https://www.codetriage.com/bajajvinamr/hacktoberfest2020/badges/users.svg">  
+</a>
