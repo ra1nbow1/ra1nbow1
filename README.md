@@ -21,6 +21,7 @@ Hi, I'm Ra1nbow1, a  **self-taughted** FrontEnd web developer from Moscow.
 - 🔭 I’m currently chillin'
 - 🌱 I’m currently learning Rest API & Service worker
 - 💬 Ask me about anything [here](https://github.com/ra1nbow1/ra1nbow1/issues)
+- 🎄 Look through my version of roadmap for web-developers [here](https://gist.github.com/Ra1nbow1/a6a5f57f665940e5844552bebdf80e92)
 
 **Languages and Tools:**  
 
