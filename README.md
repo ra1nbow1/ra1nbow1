@@ -19,7 +19,7 @@
 Hi, I'm Ra1nbow1, a  **self-taughted** professional FullStack web developer from Moscow.
 
 - 🔭 I’m currently chillin'
-- 🌱 I’m currently learning Vue CLI
+- 🌱 I’m currently learning Python
 - 💬 Ask me about anything [here](https://github.com/ra1nbow1/ra1nbow1/issues)
 
 **Languages and Tools:**  
