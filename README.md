@@ -39,7 +39,7 @@ Hi, I'm Ra1nbow1, a  **self-taughted** professional FullStack web developer from
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&layout=compact" alt="Anurag's github stats" />
 </a>
 <a href="https://ra1nbow.xyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,8A2387,F27121,E94057&icon_color=000000&title_color=000000&line_height=27&v=5" alt="Anurag's github stats" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,8A2387,F27121,E94057&icon_color=000000&title_color=000000&line_height=27&v=5" alt="Anurag's github stats" />
 </a>
 
 <a href="https://ra1nbow.xyz">
