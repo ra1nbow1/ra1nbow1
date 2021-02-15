@@ -36,9 +36,9 @@ Hi, I'm Ra1nbow1, a  **self-taughted** professional FullStack web developer from
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most **public** code on github*
 
 <a href="https://ra1nbow.xyz">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&layout=compact" alt="Anurag's github stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Anurag's github stats" />
 </a><a href="https://ra1nbow.xyz">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,8A2387,F27121,E94057&icon_color=000000&title_color=000000&line_height=27&v=5" alt="Anurag's github stats" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Anurag's github stats" />
 </a>
 
 <a href="https://ra1nbow.xyz">
