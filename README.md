@@ -44,9 +44,9 @@ Hi, I'm Ra1nbow1, a  **self-taughted** professional FullStack web developer from
 <a href="https://ra1nbow.xyz">
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Anurag's github stats" />
 </a>
-<a href="https://ra1nbow.xyz">
+<!-- <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ra1nbow1&layout=compact" alt="Anurag's github stats" />
-</a>
+</a> -->
 
 <!--  https://naereen.github.io/badges/ All available badges-->
 
