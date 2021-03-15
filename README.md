@@ -42,7 +42,7 @@ Hi, I'm Ra1nbow1, a  **self-taughted** professional FullStack web developer from
 <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ra1nbow1&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Anurag's github stats" />
 </a>
-
+<br/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
