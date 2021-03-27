@@ -3,11 +3,9 @@
 ![Profile views](https://gpvc.arturio.dev/ra1nbow1)
 <!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/CtRp5GB) -->
 
-<code>
 <a href="https://dev.to/ra1nbow1">
   <img align="left" alt="Ra1nbow1 | dev.to" width="30px" src="https://user-images.githubusercontent.com/38384967/88418689-a4423600-cdec-11ea-9fcf-454db1d997e5.png" />
 </a>
-</code>
 <a href="https://t.me/raenbov">
   <img align="left" alt="Ra1nbow1 | Telegram" width="30px" src="https://user-images.githubusercontent.com/38384967/88418464-3eee4500-cdec-11ea-9507-c58e28fc11b9.png" />
 </a>
