@@ -21,6 +21,7 @@ Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from 
 - 🔭 I’m currently chillin'
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything [here](https://github.com/ra1nbow1/ra1nbow1/issues)
+- ✨Check out my [dev.to page](https://dev.to/ra1nbow1)
 
 **Languages and Tools:**  
 
