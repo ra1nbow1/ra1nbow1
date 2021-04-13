@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/ra1nbow1)
 <!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/CtRp5GB) -->
 
-[Connect me via Temegram!](https://t.me/raenbov)
+[Connect me via Telegram!](https://t.me/raenbov)
 
 <!-- <a href="https://discord.gg/CtRp5GB">
   <img align="left" alt="Ra1nbow1 | Discord" width="30px" src="https://user-images.githubusercontent.com/38384967/88418541-60e7c780-cdec-11ea-89bb-4c7622f28b9d.png" />
