@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/ra1nbow1)
 <!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/CtRp5GB) -->
 
-<p aling="center">
+<p aling="center" style="diplay: flex; justify-content: center;">
   <a href="https://t.me/raenbov">Connect me via Telegram!</a>
   <a href="https:/discord.gg/CtRp5GB">Join my Discord Server!</a>
 </p>
