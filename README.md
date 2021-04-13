@@ -6,11 +6,6 @@
 <p aling="center"><a href="https://t.me/raenbov">Connect me via Telegram!</a></p>
 <p aling="center"><a href="https:/discord.gg/CtRp5GB">Join my Discord Server!</a></p>
 
-<!-- <a href="https://discord.gg/CtRp5GB">
-  <img align="left" alt="Ra1nbow1 | Discord" width="30px" src="https://user-images.githubusercontent.com/38384967/88418541-60e7c780-cdec-11ea-89bb-4c7622f28b9d.png" />
-</a> -->
-
-<br />
 <br />
 
 Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from Moscow.
