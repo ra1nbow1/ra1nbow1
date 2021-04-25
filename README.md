@@ -28,7 +28,7 @@ Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most **public** code on Github*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most __**public**__ code on Github*
 
 <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Anurag's github stats" />
