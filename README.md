@@ -6,9 +6,9 @@
 [Connect me via Telegram!](https://t.me/raenbov)</br></br>
 [Join my Discord server!](https:/discord.gg/CtRp5GB)<br>
 <!-- <a href="https://discord.gg/CtRp5GB"><img src="https://invidget.switchblade.xyz/CtRp5GB?theme=dark"></a> -->
-<a href="https://discord.gg/CtRp5GB">
+<!-- <a href="https://discord.gg/CtRp5GB">
     <img src="https://img.shields.io/discord/785088147721027585.svg?logo=discord&colorB=7289DA" alt="Discord">
-  </a>
+  </a> -->
 
 <br />
 
