@@ -34,10 +34,10 @@ Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most __**public**__ code on Github*
 
 <a href="https://ra1nbow.xyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Ra1nbow's Stats" />
 </a>
 <a href="https://ra1nbow.xyz">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ra1nbow1&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ra1nbow1&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Ra1nbow's Stats" />
 </a>
 <br/>
 <p align="center"> 
@@ -46,13 +46,13 @@ Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from 
 </p>
 
 <!-- <a href="https://github.com/Ra1nbow1/weather_app">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Anurag's github stats" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=weather_app&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
 </a>
 <a href="https://github.com/Ra1nbow1/py_games">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=py_games&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Anurag's github stats" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=ra1nbow1&repo=py_games&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=27&v=5" alt="Ra1nbow's Stats" />
 </a> -->
 <!-- <a href="https://ra1nbow.xyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ra1nbow1&layout=compact" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ra1nbow1&layout=compact" alt="Ra1nbow's Stats" />
 </a> -->
 
 <!--  https://naereen.github.io/badges/ All available badges-->
