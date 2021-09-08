@@ -5,7 +5,7 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/ra1nbow1) -->
 <!-- [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/CtRp5GB) -->
 
-[Connect me via Telegram!](https://t.me/raenbov)</br>
+[Connect me with Telegram!](https://t.me/raenbov)</br>
 <!-- [Join my Discord server!](https:/discord.gg/CtRp5GB)<br> -->
 <a href="https://discord.gg/CtRp5GB"><img src="https://invidget.switchblade.xyz/CtRp5GB?theme=dark"></a>
 <!-- <a href="https://discord.gg/CtRp5GB">
