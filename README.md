@@ -41,8 +41,9 @@ Hi, I'm Ra1nbow1, a professional **self-taughted** FullStack web developer from 
 <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ra1nbow1&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Ra1nbow's Stats" />
 </a>
-<br/>
+<br>
 <p align="center"> 
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra1nbow1&" alt="ra1nbow1"><br> -->
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
 </p>
