@@ -1,4 +1,4 @@
-###  Hi there!
+###  Hi there <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 I'm Matvey, a professional **self-taughted** FullStack web developer from Moscow.
 
@@ -52,3 +52,8 @@ I'm Matvey, a professional **self-taughted** FullStack web developer from Moscow
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
+<p align="center"> 
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra1nbow1&" alt="ra1nbow1"><br> -->
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+</p>
