@@ -52,7 +52,8 @@ I'm Matvey, a professional **self-taughted** FullStack web developer from Moscow
 </a>
 
 <p align="center"> 
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra1nbow1&" alt="ra1nbow1"><br> -->
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+  <a href="https://ra1nbow.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+  </a>
 </p>
