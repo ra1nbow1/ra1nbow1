@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Web developer; CEO of the Internet
+message: Please cite this code using these metadata.
+type: software
+authors:
+  - given-names: Matvey
+    email: romanov@ra1nbow.xyz
+    family-names: Romanov
