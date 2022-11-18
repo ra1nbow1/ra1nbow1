@@ -14,6 +14,7 @@ I'm Matvey, a professional **self-taughted** FullStack web developer from Moscow
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://ra1nbow.xyz?ref=github)
+[![TypeScript](https://img.shields.io/badge/-Typescript-000?&logo=typescript)](https://ra1nbow.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://ra1nbow.xyz?ref=github)
 
