@@ -1,6 +1,6 @@
 ###  Hi there, I'm ra1nbow <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-I'm Matvey, a professional **self-taughted** FullStack web developer from Moscow.
+I'm Matvey, a professional **self-taughted** Full Stack web developer from Moscow.
 
 [![](https://img.shields.io/badge/-🌈%20Website-FFF)](https://ra1nbow.xyz?ref=github)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/CtRp5GB)
